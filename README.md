@@ -1,10 +1,14 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Monitor baby.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Almudena Murillo Martín-Asín y Mónica Sacristán Sánchez.
+
+## Descripcion del trabajo
+
+El objetio del trabajo es monitorizar un colchon para bebés de tal forma que se pueda regular la temperatura del mismo así como que posea la capacidad de vibrar en caso de que se indique. 
 
 ## Objetivos del trabajo
 
