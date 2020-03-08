@@ -12,4 +12,13 @@ El objetio del trabajo es monitorizar un colchon para bebés de tal forma que se
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Conseguir que el sensor capte la temperatura, y en funcion de esta se enciendan los ventiladores o la resistencia termica para regular el frio o calor.
+Elaborar un prototipo que cumpla con los objetivos deseados.
+
+## Hardware
+
+PC, Arduino UNO, resistencia termica, ventiladores, motor vibrador arduino. 
+
+## Software
+
+Desarrollo en C++ y programacion con IDE Arduino.
